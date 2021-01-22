@@ -1,0 +1,13 @@
+branca==0.4.2
+certifi==2020.12.5
+chardet==4.0.0
+folium==0.12.1
+idna==2.10
+Jinja2==2.11.2
+MarkupSafe==1.1.1
+numpy==1.19.5
+pytz==2020.5
+requests==2.25.1
+sunnyday==2.0.0
+timezonefinder==5.1.0
+urllib3==1.26.2
